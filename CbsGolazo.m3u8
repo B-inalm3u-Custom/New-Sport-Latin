@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-DISCONTINUITY-SEQUENCE:1
+#EXT-X-ALLOW-CACHE:NO
+#EXTINF:1,
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/27183.ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1293199&extension=ts
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:7C:23:B8&stream=1461038&extension=ts
