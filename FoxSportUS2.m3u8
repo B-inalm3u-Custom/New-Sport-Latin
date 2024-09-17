@@ -5,6 +5,5 @@
 #EXT-X-PART-INF:PART-TARGET=1
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:1,
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:08:E8:19&stream=630505&extension=ts
+http://djdistro.xyz:80/play/live.php?mac=00:1A:79:18:BF:04&stream=777050&extension=ts
 http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/102787.ts
-http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=630505&extension=ts
