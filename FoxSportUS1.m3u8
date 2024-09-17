@@ -5,5 +5,6 @@
 #EXT-X-PART-INF:PART-TARGET=1
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:1,
+http://djdistro.xyz:80/play/live.php?mac=00:1A:79:18:BF:04&stream=775382&extension=ts
 http://djdistro.xyz:80/play/live.php?mac=00:1A:79:18:BF:04&stream=777049&extension=ts
 http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/102786.ts
